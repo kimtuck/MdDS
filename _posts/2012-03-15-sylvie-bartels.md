@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2012-03-15 15:21:14
 ---
-<h3><span style="color: #003865;">After many years of suffering from MdDS, which was acquired after a horseback ride and associated with severe TMJ pain, Sylvie feels she is finally able to enjoy life again — all because of the vestibular therapy that she still incorporates into her life on a daily basis.</span></h3>
+<h3>After many years of suffering from MdDS, which was acquired after a horseback ride and associated with severe TMJ pain, Sylvie feels she is finally able to enjoy life again — all because of the vestibular therapy that she still incorporates into her life on a daily basis.</h3>
 <div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;"><strong>LONG POST WARNING</strong>: If you have MdDS and are bothered by scrolling, we recommend printing to read offline. To print, press Command+P on a Mac or Control+P on a PC.</div>
 
 [caption id="attachment_984" align="alignright" width="232"]<a href="https://mddsfoundation.org/wp-content/uploads/2018/03/Sylvie-and-Dancer.jpg"><img class="wp-image-984 " title="Sylvie and Dancer" src="https://mddsfoundation.org/wp-content/uploads/2018/03/Sylvie-and-Dancer.jpg" alt="" width="232" height="311" /></a> Sylvie and Dancer[/caption]
