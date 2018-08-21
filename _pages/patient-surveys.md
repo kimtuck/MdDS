@@ -34,7 +34,7 @@ Contribute to information on therapies that MdDS patients may find helpful.
 <a class="arrow" href="https://mddsfoundation.org/wp-content/uploads/2017/07/Symptom-Survey-Results-2007.pdf" rel="noopener">Symptom Survey Results 2007</a>
 <a class="arrow" href="https://mddsfoundation.org/wp-content/uploads/2017/07/WaterRelated-Survey-Results-2010.pdf" rel="noopener">Water-related Survey Results 2010</a>
 <a class="arrow" href="https://mddsfoundation.org/wp-content/uploads/2017/07/Clinical-Presentation-Survey-Results-2007.pdf" rel="noopener">Clinical Presentation Survey Results 2007</a>
-<a class="arrow" href="MISSING" rel="noopener">Geographic Survey Results 2006 – MISSING</a>
+<a class="arrow" href="MISSING" rel="noopener">Geographic Survey Results 2006 – MISSING</a> <small>Please complete the survey above so that we may provide the most current data.</small>
 <h4>Invitae Patient Insights Network (PIN)</h4>
 The MdDS Foundation is actively developing a Patient Registry or PIN with Invitae to collect consistent information to establish and provide accurate patient data to medical professionals and researchers. Collecting and storing data in one place benefits patients, researchers, and biopharmaceutical companies who are working to help find new and better treatments. <small><a href="https://pin.invitae.com/learnmore/we-promise.html">LEARN MORE</a></small>
 <h5>Interested in Clinical Trials? <small><a href="https://mddsfoundation.org/clinical-studies/">CLICK HERE</a></small></h5>
