@@ -19,12 +19,12 @@ post_date: 2017-10-14 13:04:20
 </ol>
 <h6><strong>Please Note</strong>: Use of the MdDS Foundation logo, any content from this website, blog, or any of its digital properties without permission is strictly prohibited.</h6>
 &nbsp;
-<div style="padding: 12px; background-color: #2c5697; line-height: 1.4; color: white;">Work with other volunteers to <strong>update our Find a Doctor database</strong> and improve our website.</div>
-<div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;">Inclusion in the <a href="http://mddsfoundation.org/find-a-doctor/">Find A Doctor</a> professional directory is strictly opt-in. The Foundation maintains a contacts database and entries need to be contacted to A) ensure a practice wishes to be included on our website and B) checked for accuracy.
+<div style="padding: 12px; background-color: #2c5697; line-height: 1.4; color: white;">Work with other volunteers to <strong>update our Find a Doctor database</strong> and improve our website's value to users like you.</div>
+<div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;">Inclusion in the <a href="http://mddsfoundation.org/find-a-doctor/">Find A Doctor</a> professional directory is strictly opt-in. The Foundation maintains a database of over 500 medical professional contacts. Entries need to be contacted to A) ensure the practice wishes to be included on our website and B) checked for accuracy.
 <span style="text-decoration: underline;">Volunteer requirements are as follows:</span>
 • <strong>must be willing to make phone calls</strong>
 • must be comfortable using a spreadsheet program such as Excel
-• must be a self-starter, able to complete assignments independently and on a timely basis</div>
+• must be a self-starter, able to complete assignments independently and on a timely basis.</div>
 &nbsp;
 <div style="padding: 12px; background-color: #2c5697; line-height: 1.4; color: white;">We are currently seeking a <strong>an individual with a scientific or medical background</strong> to help customize our Patient Registry questionnaires.</div>
 <div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;">The MdDS Foundation is actively developing a Patient Registry with Invitae to collect consistent information and establish accurate patient data. Collecting and storing data in one place benefits patients, researchers, and biopharmaceutical companies who are working to help find new and better treatments. <a href="http://bit.ly/MdDSpindata">The current PIN data</a> on Mal de Débarquement Syndrome skims the surface. Help us create questionnaires to collect the data that differentiates MdDS from common dizzy disorders and that medical professionals and researchers need.</div>
