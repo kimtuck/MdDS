@@ -1,6 +1,6 @@
 ---
 ID: 6980
-post_title: Thank You
+post_title: Thank You!
 author: MdDS Foundation
 post_excerpt: ""
 layout: page
