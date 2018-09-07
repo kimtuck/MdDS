@@ -17,8 +17,8 @@ Remember:
  	<li><strong>There will be good days</strong> in addition to bad days.</li>
  	<li><strong>Listen to your body and brain</strong> and ask for help when you need it.</li>
 </ul>
-<h2>Wondering if you should try a migraine diet?</h2>
-<h3>Need advice for flying? The tips below will help you cope with MdDS symptoms in a variety of situations.</h3>
+<h2>Wondering if you should try a migraine diet? Need advice for flying? What about cooking and cleaning with MdDS?</h2>
+The tips below will help you cope with MdDS symptoms in a variety of situations.
 <div style="padding: 15px; background-color: #f1f9fa; line-height: 1.4;"><strong><a name="caregivertips"></a>If you are a caregiver</strong>: The most helpful thing you can do is say, <strong>"I believe you."</strong>
 [reveal heading="More Caregiver Tips"]
 <ul class="ul1">
