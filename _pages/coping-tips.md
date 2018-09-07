@@ -133,6 +133,9 @@ There is no medical evidence that diet contributes to MdDS, but modifying your d
  	<li><strong>Don’t feel guilty</strong> about saying "No" or for not being able to do everything you used to.</li>
  	<li><span class="pg-4ff2">Remember <strong>you are not alone</strong>. Reach out to others that have MdDS and understand</span>;<strong> <a href="https://mddsfoundation.org/support/">join a support group</a></strong>.</li>
 </ul>
+
+<hr />
+
 <div style="padding: 15px; background-color: #f1f9fa; line-height: 1.4;"><strong><a name="caregivertips"></a>If you are a caregiver</strong>: The most helpful thing you can do is say, <strong>"I believe you."</strong>
 [reveal heading="More Caregiver Tips"]
 <ul class="ul1">
@@ -166,9 +169,6 @@ Roger Josselyn
 [/reveal]
 
 </div>
-
-<hr />
-
 <h4>Suicide Help</h4>
 <em>National Suicide Prevention Lifeline:</em> 1-800-273-8255
 <a href="http://www.suicide.org/international-suicide-hotlines.html">International Suicide Prevention Hotlines</a>
