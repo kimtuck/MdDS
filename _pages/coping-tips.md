@@ -8,7 +8,6 @@ permalink: https://mddsfoundation.org/coping-tips/
 published: true
 post_date: 2017-06-05 15:58:29
 ---
-<h2>General Advice</h2>
 To manage persistent symptoms, it is important to <strong>reduce stress</strong>, <strong>be well rested</strong> and <strong>pay attention to your symptom triggers</strong>. Try not to panic, and always keep in mind that MdDS is not life-threatening.
 
 Remember:
@@ -18,6 +17,8 @@ Remember:
  	<li><strong>There will be good days</strong> in addition to bad days.</li>
  	<li><strong>Listen to your body and brain</strong> and ask for help when you need it.</li>
 </ul>
+<h2>Wondering if you should try a migraine diet?</h2>
+<h3>Need advice for flying? The tips below will help you cope with MdDS symptoms in a variety of situations.</h3>
 <div style="padding: 15px; background-color: #f1f9fa; line-height: 1.4;"><strong><a name="caregivertips"></a>If you are a caregiver</strong>: The most helpful thing you can do is say, <strong>"I believe you."</strong>
 [reveal heading="More Caregiver Tips"]
 <ul class="ul1">
@@ -41,11 +42,11 @@ You should know that I am not the most tolerant guy and I don't like complainers
 
 I'm not going to talk down to any of you non-believers. I'm just asking you to take another look at this and start believing rather than refusing to take your loved one seriously. You're looking at REAL SUFFERING! Yes, it's clearly known that a major aspect of MdDS is it's failure to show up when subjected to a variety of "conventional vestibular tests". And it's a characteristic of MdDS that the bulk of its impact is in the brain's and vestibular system's processing of balance sensations.
 
-But you should know that, as with thousands of other "orphan diseases", there is no attention or research devoted to it, and many, many  physicians don't recognize the disorder. The definition  of an orphan disease is "less than 200,000 cases" - We have no idea of the number of MdDS cases but our estimate could be less than 10% of that number). After all, the thousands of disorders that are MAJOR ones TOTALLY CONSUME THE ATTENTION OF PHYSICIANS. This one is NOT such a disorder. It's RARE !!!
+But you should know that, as with thousands of other "orphan diseases", there is no attention or research devoted to it, and many, many  physicians don't recognize the disorder. The definition  of an orphan disease is "less than 200,000 cases". (We have no idea of the number of MdDS cases but our estimate could be less than 10% of that number). After all, the thousands of disorders that are MAJOR ones TOTALLY CONSUME THE ATTENTION OF PHYSICIANS. This one is NOT such a disorder. It's RARE !!!
 
-So, guys and dolls, how about taking a moment to realize that what we may be doing is refusing to think that someone else has been victimized and, while we've taken our health for granted, your other person needs our support and sympathy. Yes, it means that we can't lean on her/him like we used to or would like to. That's life. But are we going to cop out when someone needs us? Denying the truth isn't the way to face new responsibilities.
+So, guys and dolls, how about taking a moment to realize that what we may be doing is refusing to think that someone else has been victimized and, while we've taken our health for granted, your other person needs your support and sympathy. Yes, it means that we can't lean on her/him like we used to or would like to. That's life. But are we going to cop out when someone needs us? Denying the truth isn't the way to face new responsibilities.
 
-Think about it - it won't hinder our macho self image to show concern and recognize others' uncontrolled failings. Hey, we husbands or sons or fathers must try to pitch in as best we can. We husbands DID mean it when we said "I do" after the words "for better or for worse"? We too will be in that boat someday, so why not start training for it with that person who's struggling most every hour of her/his day with MdDS, Mal de Debarquement Syndrome? And in case we think it's just hypochondria or some such thing, remember that it is officially recognized by every major medical organization here and abroad, eg, The Centers for Disease Control, National Organization of Rare Diseases, National Institute of Health, Vestibular Disorders Association, and many renowned doctors in all the major teaching hospitals around the world.
+Think about it - it won't hinder our macho self image to show concern and recognize others' uncontrolled failings. Hey, we husbands or sons or fathers must try to pitch in as best we can. We husbands DID mean it when we said "I do" after the words "for better or for worse"? We too will be in that boat someday, so why not start training for it with that person who's struggling most every hour of her/his day with MdDS, Mal de Debarquement Syndrome? And in case we think it's just hypochondria or some such thing, remember that it is officially recognized by every major medical organization here and abroad, <em>eg</em>, The Centers for Disease Control, National Organization of Rare Diseases, National Institute of Health, Vestibular Disorders Association, and many renowned doctors in all the major teaching hospitals around the world.
 
 Roger Josselyn
 [/reveal]
