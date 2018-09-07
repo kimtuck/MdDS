@@ -8,9 +8,7 @@ permalink: https://mddsfoundation.org/coping-tips/
 published: true
 post_date: 2017-06-05 15:58:29
 ---
-To manage persistent symptoms, it is important to <strong>reduce stress</strong>, <strong>be well rested</strong> and <strong>pay attention to your symptom triggers</strong>. Try not to panic, and always keep in mind that MdDS is not life-threatening.
-
-Remember:
+To manage persistent symptoms, it is important to <strong>reduce stress</strong>, <strong>be well rested</strong> and <strong>pay attention to your symptom triggers</strong>. Try not to panic, and always keep in mind that MdDS is not life-threatening. Remember:
 <ul>
  	<li><strong>You are not alone</strong>. We and <a href="https://mddsfoundation.org/support/">our support groups</a> are with you.<strong>
 </strong></li>
@@ -19,39 +17,6 @@ Remember:
 </ul>
 <h2>Wondering if you should try a migraine diet? Need advice for flying? What about cooking and cleaning with MdDS?</h2>
 The tips below will help you cope with MdDS symptoms in a variety of situations.
-<div style="padding: 15px; background-color: #f1f9fa; line-height: 1.4;"><strong><a name="caregivertips"></a>If you are a caregiver</strong>: The most helpful thing you can do is say, <strong>"I believe you."</strong>
-[reveal heading="More Caregiver Tips"]
-<ul class="ul1">
- 	<li class="li1">Ask how you can help; figuring this out is often a team effort, but the main answers need to come from them.</li>
- 	<li class="li1">Be empathetic.</li>
- 	<li class="li1">Let them know, with actions, that you “have their back.”</li>
- 	<li class="li1">Be patient. Steadfast support is incredibly meaningful.</li>
- 	<li class="li1">If not yet diagnosed, do anything you can to help facilitate the process of finding an accurate diagnosis.</li>
- 	<li class="li1">Understand that many things have likely changed in the blink of an eye for them; nevertheless, it doesn't mean WHO THEY ARE has changed.</li>
- 	<li class="li1">Self care is CRUCIAL. Being a caregiver can very quickly become overwhelming. Don't let it define you, and make time for yourself.</li>
-</ul>
-[/reveal]
-[reveal heading="Roger Josselyn’s Letter to Family Members"]
-Roger Josselyn, set the path to success for the MdDS Foundation when he co-founded it with his wife, Marilyn, in 2007. He passed away in 2018, leaving a legacy of cleared hurdles and lasting accomplishments. First shared in 2004, his excellent message for families and friends of those who live with MdDS is still very relevant.
-
-Date: Wed Dec 15, 2004
-Subject: MdDS and Insensitive Spouses, Parents or Kids
-As a husband of a woman who has had MdDS for near seven years, I'm experienced enough with the impact of MdDS to offer some advice. So, to you macho males (or females!) who have taken the position that someone close to you is a hypochondriac or otherwise is seeking sympathy for a disorder that "is a figment of his/her imagination", please read on.
-
-You should know that I am not the most tolerant guy and I don't like complainers! Now that we've established my intolerance, I want to say that whoever you are, you may be a victim of what we  all suffer now and then - not facing reality! Having both observed my wife's many many problems from living with MdDS, and having kept up with thousands of inputs from persons with MdDS to the several websites, as well as having talked to some of the most well versed and renowned physicians who have studied MdDS, I ask you to believe me - IT'S A GENUINE DISORDER AND IT'S VERY LIKELY TO BE EXTREMELY DISABLING.
-
-I'm not going to talk down to any of you non-believers. I'm just asking you to take another look at this and start believing rather than refusing to take your loved one seriously. You're looking at REAL SUFFERING! Yes, it's clearly known that a major aspect of MdDS is it's failure to show up when subjected to a variety of "conventional vestibular tests". And it's a characteristic of MdDS that the bulk of its impact is in the brain's and vestibular system's processing of balance sensations.
-
-But you should know that, as with thousands of other "orphan diseases", there is no attention or research devoted to it, and many, many  physicians don't recognize the disorder. The definition  of an orphan disease is "less than 200,000 cases". (We have no idea of the number of MdDS cases but our estimate could be less than 10% of that number). After all, the thousands of disorders that are MAJOR ones TOTALLY CONSUME THE ATTENTION OF PHYSICIANS. This one is NOT such a disorder. It's RARE !!!
-
-So, guys and dolls, how about taking a moment to realize that what we may be doing is refusing to think that someone else has been victimized and, while we've taken our health for granted, your other person needs your support and sympathy. Yes, it means that we can't lean on her/him like we used to or would like to. That's life. But are we going to cop out when someone needs us? Denying the truth isn't the way to face new responsibilities.
-
-Think about it - it won't hinder our macho self image to show concern and recognize others' uncontrolled failings. Hey, we husbands or sons or fathers must try to pitch in as best we can. We husbands DID mean it when we said "I do" after the words "for better or for worse"? We too will be in that boat someday, so why not start training for it with that person who's struggling most every hour of her/his day with MdDS, Mal de Debarquement Syndrome? And in case we think it's just hypochondria or some such thing, remember that it is officially recognized by every major medical organization here and abroad, <em>eg</em>, The Centers for Disease Control, National Organization of Rare Diseases, National Institute of Health, Vestibular Disorders Association, and many renowned doctors in all the major teaching hospitals around the world.
-
-Roger Josselyn
-[/reveal]
-
-</div>
 
 <hr />
 
@@ -168,6 +133,39 @@ There is no medical evidence that diet contributes to MdDS, but modifying your d
  	<li><strong>Don’t feel guilty</strong> about saying "No" or for not being able to do everything you used to.</li>
  	<li><span class="pg-4ff2">Remember <strong>you are not alone</strong>. Reach out to others that have MdDS and understand</span>;<strong> <a href="https://mddsfoundation.org/support/">join a support group</a></strong>.</li>
 </ul>
+<div style="padding: 15px; background-color: #f1f9fa; line-height: 1.4;"><strong><a name="caregivertips"></a>If you are a caregiver</strong>: The most helpful thing you can do is say, <strong>"I believe you."</strong>
+[reveal heading="More Caregiver Tips"]
+<ul class="ul1">
+ 	<li class="li1">Ask how you can help; figuring this out is often a team effort, but the main answers need to come from them.</li>
+ 	<li class="li1">Be empathetic.</li>
+ 	<li class="li1">Let them know, with actions, that you “have their back.”</li>
+ 	<li class="li1">Be patient. Steadfast support is incredibly meaningful.</li>
+ 	<li class="li1">If not yet diagnosed, do anything you can to help facilitate the process of finding an accurate diagnosis.</li>
+ 	<li class="li1">Understand that many things have likely changed in the blink of an eye for them; nevertheless, it doesn't mean WHO THEY ARE has changed.</li>
+ 	<li class="li1">Self care is CRUCIAL. Being a caregiver can very quickly become overwhelming. Don't let it define you, and make time for yourself.</li>
+</ul>
+[/reveal]
+[reveal heading="Roger Josselyn’s Letter to Family Members"]
+Roger Josselyn, set the path to success for the MdDS Foundation when he co-founded it with his wife, Marilyn, in 2007. He passed away in 2018, leaving a legacy of cleared hurdles and lasting accomplishments. First shared in 2004, his excellent message for families and friends of those who live with MdDS is still very relevant.
+
+Date: Wed Dec 15, 2004
+Subject: MdDS and Insensitive Spouses, Parents or Kids
+As a husband of a woman who has had MdDS for near seven years, I'm experienced enough with the impact of MdDS to offer some advice. So, to you macho males (or females!) who have taken the position that someone close to you is a hypochondriac or otherwise is seeking sympathy for a disorder that "is a figment of his/her imagination", please read on.
+
+You should know that I am not the most tolerant guy and I don't like complainers! Now that we've established my intolerance, I want to say that whoever you are, you may be a victim of what we  all suffer now and then - not facing reality! Having both observed my wife's many many problems from living with MdDS, and having kept up with thousands of inputs from persons with MdDS to the several websites, as well as having talked to some of the most well versed and renowned physicians who have studied MdDS, I ask you to believe me - IT'S A GENUINE DISORDER AND IT'S VERY LIKELY TO BE EXTREMELY DISABLING.
+
+I'm not going to talk down to any of you non-believers. I'm just asking you to take another look at this and start believing rather than refusing to take your loved one seriously. You're looking at REAL SUFFERING! Yes, it's clearly known that a major aspect of MdDS is it's failure to show up when subjected to a variety of "conventional vestibular tests". And it's a characteristic of MdDS that the bulk of its impact is in the brain's and vestibular system's processing of balance sensations.
+
+But you should know that, as with thousands of other "orphan diseases", there is no attention or research devoted to it, and many, many  physicians don't recognize the disorder. The definition  of an orphan disease is "less than 200,000 cases". (We have no idea of the number of MdDS cases but our estimate could be less than 10% of that number). After all, the thousands of disorders that are MAJOR ones TOTALLY CONSUME THE ATTENTION OF PHYSICIANS. This one is NOT such a disorder. It's RARE !!!
+
+So, guys and dolls, how about taking a moment to realize that what we may be doing is refusing to think that someone else has been victimized and, while we've taken our health for granted, your other person needs your support and sympathy. Yes, it means that we can't lean on her/him like we used to or would like to. That's life. But are we going to cop out when someone needs us? Denying the truth isn't the way to face new responsibilities.
+
+Think about it - it won't hinder our macho self image to show concern and recognize others' uncontrolled failings. Hey, we husbands or sons or fathers must try to pitch in as best we can. We husbands DID mean it when we said "I do" after the words "for better or for worse"? We too will be in that boat someday, so why not start training for it with that person who's struggling most every hour of her/his day with MdDS, Mal de Debarquement Syndrome? And in case we think it's just hypochondria or some such thing, remember that it is officially recognized by every major medical organization here and abroad, <em>eg</em>, The Centers for Disease Control, National Organization of Rare Diseases, National Institute of Health, Vestibular Disorders Association, and many renowned doctors in all the major teaching hospitals around the world.
+
+Roger Josselyn
+[/reveal]
+
+</div>
 
 <hr />
 
