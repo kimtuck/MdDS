@@ -47,7 +47,8 @@ Look a little closer
 Tami Grosset, MdDS Warrior
 Age at onset: 31
 I was living in England at the time (2002?) but now live in Canada.
+<hr/>
 <div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;"><strong>Have a story to share?</strong> See the <a href="https://mddsfoundation.org/stories/#submit-your-mdds-story">Submission Guidelines</a> for writing tips and submission instructions.</div>
-<h5>Helpful Links:</h5>
+<h5>You May Also Be Interested In:</h5>
 <h6><a href="https://mddsfoundation.org/symptoms/">Symptoms of Mal de Débarquement Syndrome</a></h6>
 <h6><a href="https://mddsfoundation.org/support/">Mal de Débarquement Syndrome Help</a></h6>
