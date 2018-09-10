@@ -1,13 +1,13 @@
 ---
-ID: 7053
+ID: 7061
 post_title: I Look Normal, by Tami G.
 author: 'Warrior &amp; Contributing Writer'
 post_excerpt: ""
 layout: post
 permalink: >
-  https://mddsfoundation.org/2018/09/09/i-look-normal/
+  https://mddsfoundation.org/2018/09/10/i-look-normal/
 published: true
-post_date: 2018-09-09 19:52:41
+post_date: 2018-09-10 14:55:11
 ---
 I wrote this poem a number of years ago (maybe 5 years ago) and I sometimes post it as a status update. My daughter is no longer a toddler but the rest holds true. ~ Tami Grosset
 <h3>I look normal.</h3>
@@ -47,7 +47,9 @@ Look a little closer
 Tami Grosset, MdDS Warrior
 Age at onset: 31
 I was living in England at the time (2002?) but now live in Canada.
-<hr/>
+
+<hr />
+
 <div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;"><strong>Have a story to share?</strong> See the <a href="https://mddsfoundation.org/stories/#submit-your-mdds-story">Submission Guidelines</a> for writing tips and submission instructions.</div>
 <h5>You May Also Be Interested In:</h5>
 <h6><a href="https://mddsfoundation.org/symptoms/">Symptoms of Mal de Débarquement Syndrome</a></h6>
