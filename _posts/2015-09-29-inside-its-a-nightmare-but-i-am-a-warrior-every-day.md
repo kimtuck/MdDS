@@ -31,3 +31,9 @@ As a RN this is a very debilitating sickness to deal with. I find myself coming
 Thanks for allowing me to share my story. Being the patient and a RN, I plan on spreading the word and advocating, getting involved in what ever way possible.
 <div>Betty G.
 MdDS Warrior</div>
+
+<hr />
+
+<h5 id="you-may-also-be-interested-in">You May Also Be Interested In:</h5>
+<h6 id="symptoms-of-mal-de-debarquement-syndrome"><a href="https://mddsfoundation.org/symptoms/">Symptoms of Mal de Débarquement Syndrome</a></h6>
+<h6 id="mal-de-debarquement-syndrome-help"><a href="https://mddsfoundation.org/support/">Mal de Débarquement Syndrome Support</a></h6>
