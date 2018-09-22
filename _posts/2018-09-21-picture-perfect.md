@@ -1,7 +1,7 @@
 ---
 ID: 7114
 post_title: Picture Perfect
-author: MdDS Foundation
+author: 'Warrior &amp; Contributing Writer'
 post_excerpt: ""
 layout: post
 permalink: >
@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-09-21 12:33:45
 ---
-<p class="intro"><img class="alignleft size-medium wp-image-7117" src="https://mddsfoundation.org/wp-content/uploads/2018/09/MirandaMcComber.jpg" alt="miranda" width="100%" height="100%" />I believe that pictures are the most beautiful things that exist. You are capturing a moment in time that lasts forever. Everything stops for that moment and is still.</p>
+<p class="intro"><img class="alignleft size-medium wp-image-7117" src="https://mddsfoundation.org/wp-content/uploads/2018/09/MirandaMcComber.jpg" alt="miranda" width="40%" height="40%" />I believe that pictures are the most beautiful things that exist. You are capturing a moment in time that lasts forever. Everything stops for that moment and is still.</p>
 Little did I know that this picture would be my last ‘still’ moment.
 
 I wanted to capture the moment of the wanderlust girl I am, well perhaps the girl I used to be.
@@ -17,9 +17,7 @@ I wanted to capture the moment of the wanderlust girl I am, well perhaps the gir
 In November 2017 I took a trip to Las Vegas, Nevada with my family. I had just turned 22 a couple months prior. After a day of flying and going up 107 stories to a restaurant in the sky, I felt a panic I had never felt before. It felt like I was walking on a bouncing floor. It felt like I was rocking and swaying with the room. I felt it sitting, standing, and laying down. This caused me to have my first panic attack. I could feel my chest get tight and hot, and my hands started to get clammy. I remember turning to my mum and saying, “What is happening to me?”
 
 A day or two passed, and the feeling stayed with me. I flew back home and thought, “I just need some rest, and I’ll be okay.”
-
-I’m still resting 9 months later.
-
+<h4>I’m still resting 9 months later.</h4>
 I have gone to countless doctors including my primary care doctor, ENTs, neurotologists, and neurologists. I was referred everywhere. I have done every testing they could think of, all the imaging they could take, all the physical exams they could do. The last testing available was in March 2018 when I did VNG testing. I was told I had a low gain vestibular ocular reflex but they were unsure if that was causing my symptoms because it was a grey area.
 
 I did vestibular exercises with my physical therapist as well as home exercises or 4 ½ months. I saw some improvement, but I was nowhere near where I used to be.
@@ -31,9 +29,7 @@ My mum was doing the last bit of research she felt she could do and came across 
 We found out that there was a possible treatment at Mount Sinai in New York. We did the proper paperwork, and I got the email that I was a candidate for the treatment.
 
 In a couple weeks I will be conquering my fear of leaving my small town in Kansas to endure tight spaces, flying, and crowds by going to one of the busiest cities in the United States for a four day possible treatment plan.
-
-I am 23 years old, and I have MdDs.
-
+<h4>I am 23 years old, and I have MdDS.</h4>
 I want to be an advocate. I want to raise awareness. I want to help others.
 
 My life might not be ‘still’ right now like that picture I took in November 2017, but who knows maybe I’ll take a new ‘still’ picture of the new version of Miranda in the beautiful New York City.
