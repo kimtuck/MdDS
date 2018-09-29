@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-01-31 11:00:47
 ---
-<div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;">Send participation inquiries to <a href="mailto:MdDSResearch@laureateinstitute.org">MdDSResearch@laureateinstitute.org</a> or look up our current trial at <a href="https://clinicaltrials.gov/ct2/show/NCT02540616?cond=Mal+de+Debarquement&amp;rank=1">https://clinicaltrials.gov/research recruiting.</a></div>
+<div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;">UPDATE: As of 28 September 2018, six (6) participants are needed to complete the tACS cohort. Send participation inquiries to <a href="mailto:MdDSResearch@laureateinstitute.org">MdDSResearch@laureateinstitute.org</a>. View current trial details at <a href="https://clinicaltrials.gov/ct2/show/NCT02540616?cond=Mal+de+Debarquement&amp;rank=1">https://clinicaltrials.gov/research recruiting.</a></div>
 
 [caption id="attachment_3866" align="alignright" width="198"]<img class="wp-image-3866 size-medium" src="https://mddsfoundation.org/wp-content/uploads/2017/06/YoonHee-Cha-198x300.png" alt="mdds researcher" width="198" height="300" /> Yoon-Hee Cha, MD, MdDS Researcher[/caption]
 <h2>Effective research requires teamwork.</h2>
