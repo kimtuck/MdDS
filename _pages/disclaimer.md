@@ -29,4 +29,4 @@ You should never delay seeking medical advice, disregard medical advice, or disc
 <h2>Liability</h2>
 Nothing in this medical disclaimer will limit any of our liabilities in any way that is not permitted under applicable law, or exclude any of our liabilities that may not be excluded under applicable law.
 
-<span class="small">Credit: this disclaimer was created using a Contractology template available at <a href="http://www.freenetlaw.com">http://www.freenetlaw.com</a>.</span>
+<span class="small">Credit: this disclaimer was created using a Contractology <a href="http://www.freenetlaw.com">template</a>.</span>
