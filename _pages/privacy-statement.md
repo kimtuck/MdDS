@@ -19,7 +19,28 @@ The MdDS Foundation values and respects all individuals seeking information abou
 
 We are focused on helping you in a secure environment. Therefore, we do not use or disclose information about your individual visits to the MdDS Foundation website, nor do we disclose information that you may give us, such as your name, address, e-mail address or telephone number, to any outside companies, except for the use of completing a transaction that you initiate.
 
-You are free to browse without submitting any personal information (such as a name, address, IP address or e-mail address) when you visit the MdDS Foundation site. We do not collect any of your personal data unless you register for the MdDS Support Group, have registered to use one of our services, complete one of our evaluations, or otherwise agree to submit to us such information. As part of such processes, at any time, you have the opportunity to decline further communications, materials or other notifications.
+[reveal heading="Terms of Service"]
+<p style="font-size: 16px;">Last updated: 11 October 2018 — You are free to browse without submitting any personal information when you visit the MdDS Foundation site. We do not collect any of your personal data unless you register for the MdDS Support Group, have registered to use one of our services, complete one of our evaluations, or otherwise agree to submit to us such information. As part of such processes, at any time, you have the opportunity to decline further communications, materials or other notifications.</p>
+<p style="font-size: 16px;">Please read these Terms of Service ("Terms") carefully before using the https://www.mddsfoundation.org website (the "Service") operated by the MdDS Balance Disorder Foundation, Inc. (“MdDS Foundation,” "us", "we", or "our").</p>
+<p style="font-size: 16px;">Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.</p>
+<p style="font-size: 16px;"><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.</strong></p>
+<p style="font-size: 16px;">Termination</p>
+<p style="font-size: 16px;">We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.</p>
+<p style="font-size: 16px;">All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</p>
+<p style="font-size: 16px;">Subscriptions</p>
+<p style="font-size: 16px;">Some parts of the Service are billed on a subscription basis ("Subscription(s)"). You will be billed in advance on a recurring ...</p>
+<p style="font-size: 16px;">Links To Other Websites</p>
+<p style="font-size: 16px;">Our Service contains links to third-party web sites or services that are not owned or controlled by us.</p>
+<p style="font-size: 16px;">The MdDS Foundation has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such websites or services.</p>
+<p style="font-size: 16px;">Changes</p>
+<p style="font-size: 16px;">We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p>
+<p style="font-size: 16px;">Contact Us</p>
+<p style="font-size: 16px;">If you have any questions about these Terms, please <a href="mailto:connect@mddsfoundation.org">contact us</a>.</p>
+
+
+<hr />
+
+[/reveal]
 
 <strong>Information About You</strong>
 We will need certain information (such as your name, address, e-mail, billing information, etc.) when a donation or other transaction is involved. This information will be used solely for the purposes of completing your transaction. When you make a donation, you will have the opportunity to keep your personal information private by electing to donate anonymously. Your personal information is not shared with any outside companies or individuals without your direct knowledge and consent.
@@ -126,7 +147,7 @@ We use Free Online Surveys to conduct our <a href="https://mddsfoundation.org/pa
 [/reveal]
 
 <strong>Links</strong>
-The MdDS Foundation’s web site contains links to other web sites. The Foundation is not responsible for the privacy practices or content of these web sites. Please refer to the Privacy Policies of each individual web site.
+The MdDS Foundation’s web site contains links to other websites. The Foundation is not responsible for the privacy practices or content of these web sites. Please refer to the Privacy Policies of each individual web site.
 
 <strong>Policy Changes</strong>
 If we change any of our privacy or security policies, we will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
