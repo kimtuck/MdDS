@@ -10,7 +10,7 @@ published: true
 post_date: 2018-10-15 14:05:16
 ---
 <p class="intro">The MdDS Foundation is pleased to introduce you to our Provider Outreach Committee, co-chaired by Marilyn Williams and Suzanne Marsh. The committee works to raise awareness of MdDS among health care providers and to provide you with the best Professional Directory possible.</p>
-<img class="alignnone wp-image-6946" style="color: #383838; font-size: inherit;" src="https://mddsfoundation.org/wp-content/uploads/2018/08/POCommittee-certificate.png" alt="" width="100%" height="100%" />
+<img class="wp-image-6946 aligncenter" style="color: #383838; font-size: inherit;" src="https://mddsfoundation.org/wp-content/uploads/2018/08/POCommittee-certificate.png" alt="" width="100%" height="100%" />
 
 <strong>Marilyn Williams</strong> is an MdDS warrior. She diligently researches and updates information on health care providers whose names have been submitted as medical professionals who have diagnosed and/or treated MdDS patients. The submissions date back to 2003, when the Foundation's first support group was established. The information we receive is maintained in an extensive database used for a variety of purposes, first and foremost to create the <a href="https://mddsfoundation.org/find-a-doctor/">Find-a-Doctor</a> Professional Directory. It is also used for outreach efforts, most recently a direct mail campaign to a select list of medical professionals at top teaching institutions.
 <h4>It is imperative that we identify new medical professionals who can recognize the features of MdDS and, ideally, are willing to join research efforts.</h4>
