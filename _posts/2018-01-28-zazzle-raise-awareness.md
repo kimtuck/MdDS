@@ -23,6 +23,10 @@ If you don't see the item you want with the image you want, simply use the "Cont
 
 Be sure to check <a href="https://www.zazzle.com/coupons">zazzle.com/coupons</a> for promotional discounts of up to 60% off. A small portion of each sale will still be sent to the MdDS Foundation as a donation on your behalf.
 
-After you receive your items, please raise awareness by taking a photo and sharing on social media. Use hashtags like #MdDSwarrior, #MdDSWarriors and #beatMdDS. And don't forget to tag us! You'll find us on <a href="https://www.instagram.com/mddsfoundation/">Instagram</a> and <a href="https://www.twitter.com/mddsfoundation/">Twitter</a> as @mddsfoundation, and on <a href="https://www.facebook.com/mddsfoundation.org/">Facebook</a> as @mddsfoundation.org.
+After you receive your items, please raise awareness by taking a photo and sharing on social media. A few great hashtags are #MdDSwarrior, #MdDSWarriors and #beatMdDS. And don't forget to tag us! You'll find us on <a href="https://www.instagram.com/mddsfoundation/">Instagram</a> and <a href="https://www.twitter.com/mddsfoundation/">Twitter</a> as @mddsfoundation, and on <a href="https://www.facebook.com/mddsfoundation.org/">Facebook</a> as @mddsfoundation.org.
 
 <embed src="https://www.zazzle.com/utl/getpanel?zp=117465803888387074" type="application/x-shockwave-flash" width="450" height="300"></embed>
+<h3>How Rare is Mal de Debarquement Syndrome?</h3>
+Any disease, disorder, illness or condition affecting fewer than 200,000 people in the United States is considered rare by the National Institutes of Health (<a href="https://www.nih.gov/">NIH</a>), the U.S. Food and Drug Administration (FDA) and the National Organization for Rare Disorders (<a href="https://rarediseases.org/">NORD</a>). There are currently approximately 7,000 rare diseases listed by the NIH.
+
+The true incidence rate of MdDS is unknown but as of October 2018 our support group membership is just over 3,000. Many sufferers are undiagnosed or have been misdiagnosed. Our <a href="https://mddsfoundation.org/about-the-foundation/">mission</a> is to change that and better understand the true nature of Mal de Débarquement Syndrome.
