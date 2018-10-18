@@ -42,3 +42,8 @@ post_date: 2017-06-14 18:36:52
  	<li>March 2009 — <a title="Great Day Houston segment with TerriG" href="http://youtu.be/eglbhkrbRRg" target="_blank" rel="noopener noreferrer">Deborah Duncan hosts Great Day Houston</a>, featuring Terri Gibson and her husband, Mike.</li>
  	<li>ABC News, January 2007, <a title="ABC Medical Mystery episode on MdDS" href="http://abcnews.go.com/video/playerIndex?id=4180415" target="_blank" rel="noopener noreferrer">Medical Mystery: Disembarkment Syndrome</a> — Sufferers feel as if they are still in motion after they have stopped traveling. (The show is copyrighted material and a video is not available online; find the <a href="http://abcnews.go.com/Health/story?id=2817081" target="_blank" rel="noopener noreferrer">transcript</a> here.)</li>
 </ul>
+
+<hr />
+
+<h3>What is disembarkation syndrome?</h3>
+<small>Mal de Débarquement (French for “sickness of disembarkment") is known variably as disembarkment syndrome and disembarkation syndrome. The disembarkment/disembarkation is not limited to cruise ships and may in fact be from any vehicle, whether water, air or land-based.</small>
