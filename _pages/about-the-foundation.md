@@ -24,3 +24,13 @@ The mission of the MdDS Foundation is to promote education and research on the n
 Tax-deductible contributions are used to accomplish these goals only. The overhead cost to achieve our goals was less than 2% last year and is budgeted to remain at this level this year. The generosity of donors is absolutely vital as we steadfastly work toward these goals.
 
 <a href="https://greatnonprofits.org/org/mdds-foundation"><img class="alignnone wp-image-5535" src="https://mddsfoundation.org/wp-content/uploads/2017/10/gnpbadge.png" alt="" width="120" height="90" /></a> <a href="https://www.guidestar.org/profile/20-5953110"> </a><a href="https://www.guidestar.org/profile/20-5953110"><img class="alignnone wp-image-5572" src="https://mddsfoundation.org/wp-content/uploads/2017/06/guidestar-platinum-135x135-150x150.png" alt="" width="90" height="90" /></a>
+<h5>2018 Board of Directors</h5>
+<small>President: Marilyn Josselyn
+Research Grants: Linda McManus, PhD
+Researcher Liaison and PR: Deb Russo
+Provider Outreach: Suzanne Marsh
+Treasurer: Terri Gibson
+Website: Holly Balog
+Cathy Helowicz
+Tyler McNeil
+</small>
