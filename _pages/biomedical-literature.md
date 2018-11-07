@@ -11,9 +11,11 @@ post_date: 2017-07-20 15:49:12
 ---
 <div>
 
+<em><strong>Mucci V</strong></em>, Jacquemyn Y, Van Ombergen A, Van de Heyning PH, Browne CJ. <a href="https://www.ncbi.nlm.nih.gov/pubmed/30220332">A new theory on GABA and Calcitonin Gene-Related Peptide involvement in Mal de Debarquement Syndrome predisposition factors and pathophysiology</a>. <em>Med Hypotheses</em>. <strong>120</strong>:128-134, <strong>2018</strong>.
+
 <em><strong>Cha YH</strong></em>, Shou G, Gleghorn D et al. <a href="https://doi.org/10.1007/s10548-018-0671-6">Electrophysiological Signatures of Intrinsic Functional Connectivity Related to rTMS Treatment for Mal de Debarquement Syndrome</a>. <em>Brain Topography</em>. 11 August <strong>2018</strong>.
 
-<em><strong>Mucci V</strong></em>, Cha YH, Wuyts FL, Van Ombergen A. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29483889" rel="nofollow">Perspective: Stepping Stones to Unraveling the Pathophysiology of Mal de Debarquement Syndrome with Neuroimaging</a>. <i>Front Neurol</i> <b>9</b>: 42, 2018.
+<em><strong>Mucci V</strong></em>, Cha YH, Wuyts FL, Van Ombergen A. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29483889" rel="nofollow">Perspective: Stepping Stones to Unraveling the Pathophysiology of Mal de Debarquement Syndrome with Neuroimaging</a>. <i>Front Neurol</i> <b>9</b>: 42, <strong>2018</strong>.
 
 <em><strong>Cha YH</strong></em>, Cui YY, Baloh RW. <a href="https://www.frontiersin.org/articles/10.3389/fneur.2018.00261/full"> Comprehensive Clinical Profile of Mal De Debarquement Syndrome</a>. <em>Front Neurol</em>. 07 May <strong>2018</strong>.
 
