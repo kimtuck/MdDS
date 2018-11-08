@@ -23,7 +23,7 @@ I filled out the paperwork and was scheduled for treatment 6 weeks out. I went t
 
 I have to admit that I have had some suicidal moments (never in my life until getting MdDs have I had these moments). Because I have such brain fog I have had to look back at posts on Facebook in the MdDS groups I’m in, and I can see a pattern of a good 6-8 weeks and then a bad 4-6 weeks. I think it’s just hard to fight this beast for too long of a time, and it just gets to me. My job is very demanding, and stress is always a factor that overwhelms me. I have made it 2½ years but fear every day that with my brain fog and memory issues I will not be able to hold onto my job. I remember one day listening to my staff talking about life and weekend plans, grand babies and whatnot, and all I could think was I wanted to die! That I had nothing to look forward to because of this damn syndrome.
 
-Throughout this journey, I have always stayed at a <a href="https://mddsfoundation.org/symptoms/#symptom-severity-scale">6-9</a> with my symptoms, and I just had the worst summer. I used to run, kayak, scuba dive, swim, do all kind of DIY projects, gardening… you name it. I was a very active person. But this summer I did nothing. The medications I take help me function only somewhat; they haven't helped my rocking, bobbing, or trampoline walk. I felt like I was going to lose my mind, my symptoms were so bad. I really did just want to give up and die at one point. Were it not for my husband and two sons, I probably would have. My husband has been so great and has stepped up and has taken such great care of me, our family and home. I thought that this was my life now and that I was just going to exist, although barely. Out of pure desperation, I tried CBD oil without THC in it.
+Throughout this journey, I have always stayed at a <a href="https://mddsfoundation.org/symptoms/#symptom-severity-scale">6-9</a> with my symptoms, and I just had the worst summer. I used to run, kayak, scuba dive, swim, do all kind of DIY projects, gardening… you name it. I was a very active person. The medications I take help me function only somewhat. They haven't helped my rocking, bobbing, or trampoline walk, and this summer I did nothing. I felt like I was going to lose my mind, my symptoms were so bad. I really did just want to give up and die at one point. Were it not for my husband and two sons, I probably would have. My husband has been so great and has stepped up and has taken such great care of me, our family and home. I thought that this was my life now and that I was just going to exist, although barely. Out of pure desperation, I tried CBD oil without THC in it.
 <h4>I have gotten my life back.</h4>
 I have gone down to a 1-2 and even have days that I had no symptoms. I’m hopeful that I might achieve remission on these drops! I want to bring awareness to this awful syndrome and, yes, we need more testing and treatments being done, but I also think that we need to be open to all kinds of things out there. I have been open to many treatments that unfortunately haven’t worked for me and medications that just mask the real problem. In a 2-week period on CBD oil, I have had real results and have my life back. I think this should be shared with everyone as much as all of the other treatments, medical information and supplement information that is being done.
 
@@ -31,6 +31,7 @@ I hope my openness and story can shed light on what this syndrome does to someon
 
 <hr />
 
+<div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;">
 <h5>Notes from the MdDS Foundation</h5>
 The MdDS Foundation supports evidence-based research and fact-based findings. However, we recognize that CBD is a very current topic and the comments are open for discussion. Please note the following:
 <ul>
@@ -38,3 +39,4 @@ The MdDS Foundation supports evidence-based research and fact-based findings. Ho
  	<li>Exercise due diligence when investigating any treatment or therapy, whether alternative or traditional.</li>
  	<li>Always consult with your healthcare provider to develop a plan of action.</li>
 </ul>
+</div>
