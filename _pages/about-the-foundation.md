@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-06-08 07:59:58
 ---
-<p class="p1"><span style="font-size: inherit;">An </span><em style="font-size: inherit;">all-volunteer</em><span style="font-size: inherit;"> nonprofit foundation, we seek treatments and a cure for MdDS, a chronic neurological disorder causing the feeling of rocking and swaying, while assisting patients suffering from this life-altering disorder. We support research and studies that produce evidence-based findings.</span></p>
+<p class="p1"><span style="font-size: inherit;">An </span><em style="font-size: inherit;">all-volunteer</em><span style="font-size: inherit;"> nonprofit foundation, we seek treatments and a cure for MdDS, a chronic neurological disorder causing the feeling of rocking and swaying, while assisting patients suffering from this life-altering disorder. We support evidence-based research and studies that produce fact-based findings.</span></p>
 
 <h2>Mission Statement</h2>
 The mission of the MdDS Foundation is to promote education and research on the neurological disorder, Mal de Débarquement Syndrome.
