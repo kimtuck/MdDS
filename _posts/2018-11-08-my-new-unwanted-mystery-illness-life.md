@@ -33,7 +33,7 @@ I hope my openness and story can shed light on what this syndrome does to someon
 
 <div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;">
 <h5>Notes from the MdDS Foundation</h5>
-The MdDS Foundation supports evidence-based research and fact-based findings. However, we recognize that CBD is a very current topic and the comments are open for discussion. Please note the following:
+The MdDS Foundation supports evidence-based research and fact-based findings. Research dedicated to developing an orphan drug for MdDS is needed. Meanwhile, we recognize that CBD is a very current topic and the comments are open for discussion. Please note the following:
 <ul>
  	<li><strong>No endorsement of treatments or medications is made or implied by publishing this anecdotal post. Please read our <a href="https://mddsfoundation.org/disclaimer/">Medical Disclaimer</a>.</strong></li>
  	<li>Exercise due diligence when investigating any treatment or therapy, whether alternative or traditional.</li>
