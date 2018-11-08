@@ -31,6 +31,5 @@ Researcher Liaison and PR: Deb Russo
 Provider Outreach: Suzanne Marsh
 Treasurer: Terri Gibson
 Website: Holly Balog
-Cathy Helowicz
 Tyler McNeil
 </small>
