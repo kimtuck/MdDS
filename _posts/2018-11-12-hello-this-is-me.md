@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2018-11-12 14:45:43
 ---
-<div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;"><small><strong>1 in 10 Americans has a rare disease or disorder</strong>. Globally, the figure is 350 million. Rare diseases are not rare! This poem will resonate with someone you know. Please read and share, <a href="https://mddsfoundation.org/blog/hello-this-is-me/"><em>Hello This Is Me</em></a>, posted on the MdDS Foundation blog today.</small></div>
-<img class="alignnone size-full wp-image-7183" src="https://mddsfoundation.org/wp-content/uploads/2018/11/Hello-This-Is-Me.jpg" alt="hello this is me banner" width="100%" height="100%" />
+<div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;"><small><strong>1 in 10 Americans has a rare disease or disorder</strong>. Globally, the figure is 350 million. Rare diseases are not rare! This poem will resonate with someone you know. Please read and share, <a href="https://mddsfoundation.org/blog/hello-this-is-me/"><em>Hello This Is Me</em></a>, using the buttons below.</small></div>
+<img class="alignnone size-full wp-image-7183" src="https://mddsfoundation.org/wp-content/uploads/2018/11/Hello-This-Is-Me.jpg" alt="hello this is me banner" />
 <p class="intro">Hello, could someone out there please fix me?</p>
 I never asked for or deserved this illness you see
 Nothing is wrong, so it may appear
