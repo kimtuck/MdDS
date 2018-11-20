@@ -1,5 +1,5 @@
 ---
-ID: 7381
+ID: 7385
 post_title: >
   Make the Matches 🙌 Announcing Two
   Matching Challenges!
@@ -9,7 +9,7 @@ layout: post
 permalink: >
   https://mddsfoundation.org/2018/11/20/make-the-matches/
 published: true
-post_date: 2018-11-20 14:22:41
+post_date: 2018-11-20 16:14:45
 ---
 <h5>This is a time-sensitive announcement.</h5>
 <p class="intro">The 2018 Giving Season launches on November 27 with two matching challenges.</p>
