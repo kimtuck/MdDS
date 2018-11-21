@@ -26,7 +26,14 @@ post_date: 2018-11-20 16:14:45
 This one's not limited to Facebook, and it runs through year-end! A generous MdDS Foundation supporter is matching donations no matter how they are made. Let your friends and family know they can support you by donating in their favorite way — to your <a href="https://fb.com/fund/mddsfoundation.org/">personal fundraiser</a>, <a href="http://www.mddsfoundation.org/donate/">mddsfoundation.org/donate</a>, or <a href="https://mddsfoundation.org/mdds-foundation-501c3/">check</a> — and help us make the <strong>$10,000 Matching Challenge</strong>.
 <div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;">
 
-To those of you gathering together on Thursday, we hope you have a wonderful Thanksgiving surrounded by friends and family. If you are shopping deals on Black Friday and Cyber Monday, we hope you stay out of the fray and have stress-reducing tip for you: <strong>Start with a Smile</strong>. When you shop through Amazon's charity portal, <a href="http://smile.amazon.com/ch/20-5953110">smile.amazon.com</a>, they make donations to the Foundation. We hope you'll set aside some of the money you save for the matching challenges. <strong>Thank you for supporting MdDS research and awareness efforts, and helping MdDS warriors get their lives back.</strong>
+To those of you gathering together on Thursday, we hope you have a wonderful Thanksgiving surrounded by friends and family. If you are shopping deals on Black Friday and Cyber Monday, we hope you stay out of the fray and have a stress-reducing tip for you: <strong>Start with a Smile</strong>. When you shop through Amazon's charity portal, <a href="http://smile.amazon.com/ch/20-5953110">smile.amazon.com</a>, they make donations to the Foundation. We hope you'll set aside some of the money you save for the matching challenges. <strong>Thank you for supporting MdDS research and awareness efforts, and helping MdDS warriors get their lives back.</strong>
 
 </div>
-<small>One final note: Thanks to a partnership with PayPal, all donations made through Facebook are fee-free. 😊</small>
+<span style="color: #2c5697; font-weight: 600; font-size: inherit;"><small>NOV 21:</small> THIS JUST IN</span>
+<div id="yui_3_15_0_2_1542821499979_2483" class="msg-content undoreset">
+<div id="ygrps-yiv-1847626329">
+<p id="yui_3_15_0_2_1542821499979_2499"><span id="yui_3_15_0_2_1542821499979_2498">This Giving Tuesday, PayPal is offering a 100% match on donations received through its holiday campaign (up to $500,000 in total matching funds), followed by a 1% donation match through to the end of the year. Give through our PayPal <a href="https://mddsfoundation.org/donate/" target="_blank" rel="nofollow noopener" data-rapid_p="6">donate page</a>, the PayPal app or through our charity’s unique link: <a href="http://www.paypal.com/us/fundraiser/charity/23117">paypal.com/us/fundraiser/charity/23117</a> This one starts at 5:01 PT on 11/27.</span></p>
+<small>NOTE: All donations made through Facebook and PayPal Giving Fund are fee-free. 😊</small>
+
+</div>
+</div>
