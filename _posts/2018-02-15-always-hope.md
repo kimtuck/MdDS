@@ -13,7 +13,7 @@ post_date: 2018-02-15 04:00:30
 ---
 <img class="size-medium wp-image-6106 alignleft" style="font-size: inherit;" src="https://mddsfoundation.org/wp-content/uploads/2018/01/JodiL-e1516052231438-253x300.jpg" alt="JodiL" width="253" height="300" />
 
-My name is Jodi Leffue, and I am a 52 year old woman from Franklin County, Virginia.
+My name is Jodi Leffue, and I am from Franklin County, Virginia.
 
 In August 2017, I attended a family vacation on a cruise. I had a wonderful time on the cruise. I noticed I could feel the ship rock but was able to still enjoy myself. On the excursions, I still had the sensation of the boat moving. Once I returned home, I still felt the rocking sensation. I went to an urgent care physician who prescribed short term valium – with no reduction in symptoms.
 
@@ -24,8 +24,3 @@ I called many neurologists in my area and around the state of Virginia. I was fo
 I try to explain that my brain wants my body to rock and sway. If I fight the urge to rock and sway then all my surroundings are rocking and swaying. The rocking and swaying causes a feeling of trying to maintain my balance which causes fatigue, loss of concentration, anxiety and depression.
 
 I may look normal but every day is a struggle to complete simple tasks such as typing, showering, feeding myself and watching TV. But <strong>there is always hope</strong>. I hope one day I will return to normal and be able to travel in a car, dance, go to movies and concerts and shop without having frustration and anxiety attacks. I will <strong>n</strong><span style="font-size: inherit;"><strong>ever give up</strong>.</span>
-
-<hr />
-
-<h6>A Note from the MdDS Foundation</h6>
-In case you missed it, this recent post is about how MdDS research has advanced. It is on-going and recruiting. https://mddsfoundation.org/2018/01/31/tacs-research-recruiting/
