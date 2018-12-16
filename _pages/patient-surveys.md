@@ -12,7 +12,9 @@ post_date: 2017-06-05 15:58:59
 Developed with doctors, the Foundation continually conducts surveys to collect the information they need. Participation in these surveys improves our ability to educate medical professionals and others to the true nature of MdDS, and is strictly voluntary.
 
 Information derived from surveys may be included in aggregate in future presentations to medical or scientific audiences. In this case, you will never be identified; results are coded before being reported to maintain privacy. The MdDS Foundation does not provide personal information including email addresses to anyone.
-
+<div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;">
+<h4>All surveys for 2018 are closed for data analysis. New surveys will be uploaded in 2019.</h4>
+</div>
 <strong>Initial Survey</strong>
 This survey is designed to collect basic information needed to educate medical professionals and others. Complete this questionnaire even if you are no longer experiencing MdDS symptoms.
 <a class="arrow" href="https://freeonlinesurveys.com/s.asp?sid=3k553y4dkm6792i634292#/0" target="_blank" rel="noopener">Take the Initial Survey</a>
