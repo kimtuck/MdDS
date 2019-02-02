@@ -31,6 +31,7 @@ The tips below will help you cope with MdDS symptoms in a variety of situations.
  	<li>Try EarPlanes® or FlyFit® earplugs for air travel.</li>
  	<li>Instead of reading or playing games on your tablet/phone, it is better to avoid downward gaze and keep your mind engaged with the environment. Watching in-flight movies may or may not elevate symptoms.</li>
  	<li>Discuss medication options with your physician. Some physicians suggest taking benzodiazepines or slightly increasing your dosage prior to and for a short time after air travel. Benzodiazepines suppress the vestibular system and may help minimize the affects flights have on MdDS symptoms. While many support group members claim this course of action helps during travel, clinical studies are required to prove their effectiveness across the population of MdDS sufferers.</li>
+ 	<li>Staying at a hotel? Ask for an accessible room. You may find the larger, walk-in shower space with safety bars relaxing.</li>
 </ul>
 [/reveal]
 
@@ -40,7 +41,7 @@ The tips below will help you cope with MdDS symptoms in a variety of situations.
 <ul>
  	<li>Don’t scroll quickly on screens (phones, tablets, computers), as this may increase symptoms.</li>
  	<li>Some have found <a href="http://justgetflux.com/" target="_blank" rel="noopener">blue light blocking apps</a> and glasses helpful. iPhone users should enable <a href="https://support.apple.com/en-us/HT202655">Reduce Motion</a>.</li>
- 	<li>Consider switching out any fluorescent lights in your home. Use incandescent table-top lamps instead.</li>
+ 	<li>Reduce flashy ads while on the Internet. Install a browser extension such as <a href="https://getadblock.com/">AdBlock</a> or <a href="https://adblockplus.org/">Adblock Plus</a>.</li>
 </ul>
 [reveal heading="More Workplace Tips"]
 <ul>
@@ -82,6 +83,7 @@ There is no medical evidence that diet contributes to MdDS, but modifying your d
 <ul>
  	<li>When cleaning, be mindful to not bend down, stand up or turn in place quickly. Avoid a sudden spike in symptoms and take your time.</li>
  	<li>The closed space of the shower is troublesome for many. Touching the walls may help with spatial orientation. Many find a shower stool, massaging tub mat, grab bars, or a clear shower curtain helpful.</li>
+ 	<li>Consider switching out any fluorescent lights in your home. Use incandescent table-top lamps instead.</li>
  	<li>If shopping is challenging, look for grocery stores that offer shopping services with pick-up or delivery.</li>
  	<li>Keep meals simple and ask for help cooking, especially stirring and mixing.</li>
  	<li>Be careful loading and unloading the dishwasher and washer/dryer. The up-down and back-and-forth movement may trigger or elevate symptoms.</li>
