@@ -9,12 +9,13 @@ permalink: >
 published: true
 post_date: 2017-06-05 15:58:59
 ---
-Developed with doctors, the Foundation continually conducts surveys to collect the information they need. Participation in these surveys improves our ability to educate medical professionals and others to the true nature of MdDS, and is strictly voluntary.
+Developed with doctors, the Foundation continually conducts surveys to collect the information they need. Participation in these surveys improves our ability to educate medical professionals and others to the true nature of MdDS and is strictly voluntary.
 
-Information derived from surveys may be included in aggregate in future presentations to medical or scientific audiences. In this case, you will never be identified; results are coded before being reported to maintain privacy. The MdDS Foundation does not provide personal information including email addresses to anyone.
-<div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;">
-<h4>All surveys for 2018 are closed for data analysis. New surveys will be uploaded in 2019.</h4>
-</div>
+Information derived from surveys may be included in aggregate in future presentations to medical or scientific audiences. In this case, you will never be identified; results are coded before being reported to maintain privacy. The MdDS Foundation does not provide personal information, including email addresses, to anyone.
+<div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;"><strong>Age at Onset Survey</strong>
+This survey aims to increase information available to researchers by identifying the age range for initial onset, as well as gender of those suffering with Mal de Débarquement Syndrome.
+<a href="https://freeonlinesurveys.com/s/n4QdUi8V#!/0"><button class="shout-button" style="color: #fff; background-color: #00a9cf; border-radius: 10px; font-size: 18px;">Take the Age at Onset Survey</button></a></div>
+<h2>The below surveys are closed for data analysis. New surveys will be uploaded soon.</h2>
 <strong>Initial Survey</strong>
 This survey is designed to collect basic information needed to educate medical professionals and others. Complete this questionnaire even if you are no longer experiencing MdDS symptoms.
 <a class="arrow" href="https://freeonlinesurveys.com/s.asp?sid=3k553y4dkm6792i634292#/0" target="_blank" rel="noopener">Take the Initial Survey</a>
@@ -36,7 +37,7 @@ Contribute to information on therapies that MdDS patients may find helpful.
 <a class="arrow" href="https://mddsfoundation.org/wp-content/uploads/2017/07/Symptom-Survey-Results-2007.pdf" rel="noopener">Symptom Survey Results 2007</a>
 <a class="arrow" href="https://mddsfoundation.org/wp-content/uploads/2017/07/WaterRelated-Survey-Results-2010.pdf" rel="noopener">Water-related Survey Results 2010</a>
 <a class="arrow" href="https://mddsfoundation.org/wp-content/uploads/2017/07/Clinical-Presentation-Survey-Results-2007.pdf" rel="noopener">Clinical Presentation Survey Results 2007</a>
-<a class="arrow" href="MISSING" rel="noopener">Geographic Survey Results 2006 – MISSING</a> <small>Please complete the survey above so that we may provide the most current data.</small>
+<a class="arrow" href="MISSING" rel="noopener">Geographic Survey Results 2006 – MISSING</a>
 <h4>Invitae Patient Insights Network (PIN)</h4>
 The MdDS Foundation is actively developing a Patient Registry or PIN with Invitae to collect consistent information to establish and provide accurate patient data to medical professionals and researchers. Collecting and storing data in one place benefits patients, researchers, and biopharmaceutical companies who are working to help find new and better treatments. <small><a href="https://pin.invitae.com/learnmore/we-promise.html">LEARN MORE</a></small>
 <h5>Interested in Clinical Trials? <small><a href="https://mddsfoundation.org/clinical-studies/">CLICK HERE</a></small></h5>
