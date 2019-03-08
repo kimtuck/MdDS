@@ -6,7 +6,7 @@ post_title: >
   of basis of MdDS, and guided the
   development of different forms of
   non-invasive brain stimulation
-  therapies. – Yoon-He Cha, MD
+  therapies. – Yoon-Hee Cha, MD
 author: Yoon-Hee Cha, MD, MdDS Researcher
 post_excerpt: ""
 layout: post
