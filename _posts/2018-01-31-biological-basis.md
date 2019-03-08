@@ -1,19 +1,20 @@
 ---
 ID: 6200
 post_title: >
-  Join the team! Patient based MdDS
-  research is recruiting.
+  The biological basis of MdDS is real.
+  Studies have given us an understanding
+  of basis of MdDS, and guided the
+  development of different forms of
+  non-invasive brain stimulation
+  therapies. – Yoon-He Cha, MD
 author: Yoon-Hee Cha, MD, MdDS Researcher
 post_excerpt: ""
 layout: post
 permalink: >
-  https://mddsfoundation.org/2018/01/31/tacs-research-recruiting/
+  https://mddsfoundation.org/2018/01/31/biological-basis/
 published: true
 post_date: 2018-01-31 11:00:47
 ---
-<div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;">UPDATE: As of 28 September 2018, six (6) participants are needed to complete the tACS cohort. Send participation inquiries to <a href="mailto:MdDSResearch@laureateinstitute.org">MdDSResearch@laureateinstitute.org</a>. View current trial details at <a href="https://clinicaltrials.gov/ct2/show/NCT02540616?cond=Mal+de+Debarquement&amp;rank=1">https://clinicaltrials.gov/research recruiting.</a></div>
-
-[caption id="attachment_3866" align="alignright" width="198"]<img class="wp-image-3866 size-medium" src="https://mddsfoundation.org/wp-content/uploads/2017/06/YoonHee-Cha-198x300.png" alt="mdds researcher" width="198" height="300" /> Yoon-Hee Cha, MD, MdDS Researcher[/caption]
 <h2>Effective research requires teamwork.</h2>
 Research into the biological basis of MdDS has advanced rapidly in the last 10 years through the collaborative efforts of scientists, engineers, clinicians, funding organizations, and not least of all, <a href="https://mddsfoundation.org/support/">people affected by MdDS</a>. It would be difficult to find any other disorder in the same time period that has been investigated with such a variety of modern research tools. These include multimodal brain imaging studies with PET, fMRI, and EEG, web-based applications for tracking symptoms, and new treatments using brain stimulation and vestibulo-ocular modulation.<span style="color: #ffffff;">research recruiting</span>
 
@@ -56,4 +57,4 @@ Once we have worked out these parameters, we will develop a ‘kit’ that is se
 Throughout all of these efforts, our vision has been to advance our understanding of the biological basis of MdDS, to give people hope and a sense of meaning from their symptoms, and to evolve our treatment alternatives to address the variability in clinical experiences.
 
 Whatever each of our roles in this effort, we move towards these goals as a team.
-<div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;">If you’re interested in participating in a clinical trial, please write to: <a href="mailto:MdDSResearch@laureateinstitute.org">MdDSResearch@laureateinstitute.org</a> or look up our current trial at <a href="https://clinicaltrials.gov/ct2/show/NCT02540616?cond=Mal+de+Debarquement&amp;rank=1">https://clinicaltrials.gov/</a>research recruiting.</div>
+<div style="padding: 12px; background-color: #f1f9fa; line-height: 1.4;">If you’re interested in participating in a clinical trial, please look up our current trial at <a href="https://clinicaltrials.gov/ct2/show/NCT02540616?cond=Mal+de+Debarquement&amp;rank=1">https://clinicaltrials.gov/research recruiting.</a></div>
